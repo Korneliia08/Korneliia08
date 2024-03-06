@@ -16,8 +16,7 @@
 
 
 
-
-# Commercial projects
+# My projects
 <table>
 <tr>
 <th>Image</th><th>Title</th><th>Preview</th><th>Preview</th>
@@ -28,17 +27,17 @@
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/foundation.png" alt="drawing" width="200"/> </td>
 <td>Благодійний фонд - могутність народу - <br/> Charitable foundation page</td>
-<td><a href="https://powepeople.com" target="_blank">Link to page -<br/> powepeople.com</a></td>
+<td><a href="https://powepeople.com">Link to page -<br/> powepeople.com</a></td>
 <td>Private</td>
 </tr><tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad1.png" alt="drawing" width="200"/></td>
 <td>My bet - template 1</td>
-<td><a href="https://demo1.mojzaklad.pl" target="_blank">Link to page -<br/> demo1.mojzaklad.pl</a></td>
+<td><a href="https://demo1.mojzaklad.pl">Link to page -<br/> demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr><tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad2.png" alt="drawing" width="200"/> </td>
 <td> My bet - template 2</td>
-<td><a href="https://demo2.mojzaklad.pl" target="_blank">https://demo1.mojzaklad.pl</a></td>
+<td><a href="https://demo2.mojzaklad.pl">https://demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr>
 <tr>
@@ -47,22 +46,25 @@
 <tr>
 <td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/Trafico.png" alt="drawing" width="200"/></td>
 <td>Trafico</td>
-<td>[Link to page](https://korneliia08.github.io/trafico/)</td>
-<td>[repository](https://github.com/Korneliia08/roomDesign)</td>
+<td><a href="https://korneliia08.github.io/trafico/">Link to page</a></td>
+<td><a href="https://github.com/Korneliia08/roomDesign">repository</a></td>
 </tr>
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/LetBeFound.png" alt="drawing" width="200"/> </td>
 <td>LetBeFound </td>
-<td>[Link to page](https://korneliia08.github.io/LetBeFound/) </td>
-<td>[repository](https://github.com/Korneliia08/LetBeFound)</td>
+<td><a href="https://korneliia08.github.io/LetBeFound/">Link to page</a>]</td>
+<td><a href="https://github.com/Korneliia08/LetBeFound">repository</a></td>
 </tr>
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
 <td> Rayal-Park </td>
-<td> [Link to page](https://korneliia08.github.io/Rayal-Park/) </td>
-<td>[repository](https://github.com/Korneliia08/Rayal-Park)</td>
+<td><a href="https://korneliia08.github.io/Rayal-Park/">Link to page</a> == </td>
+<td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
 </tr>
 </table>
+
+
+
 
 
 
