@@ -19,7 +19,7 @@
 # My projects
 <table>
 <tr>
-<th>Image</th><th>Title</th><th>Preview</th><th>Preview</th>
+<th>Image</th><th>Title</th><th>Link to page</th><th>Repository</th>
 </tr>
 <tr>
 <th colspan="4"> <h4>Commercial project</h4></th>
@@ -32,12 +32,12 @@
 </tr><tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad1.png" alt="drawing" width="200"/></td>
 <td>My bet - template 1</td>
-<td><a href="https://demo1.mojzaklad.pl">Link to page -<br/> demo1.mojzaklad.pl</a></td>
+<td><a href="https://demo1.mojzaklad.pl">demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr><tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad2.png" alt="drawing" width="200"/> </td>
 <td> My bet - template 2</td>
-<td><a href="https://demo2.mojzaklad.pl">https://demo1.mojzaklad.pl</a></td>
+<td><a href="https://demo2.mojzaklad.pl">demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr>
 <tr>
@@ -52,16 +52,18 @@
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/LetBeFound.png" alt="drawing" width="200"/> </td>
 <td>LetBeFound </td>
-<td><a href="https://korneliia08.github.io/LetBeFound/">Link to page</a>]</td>
+<td><a href="https://korneliia08.github.io/LetBeFound/">Link to page</a></td>
 <td><a href="https://github.com/Korneliia08/LetBeFound">repository</a></td>
 </tr>
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
 <td> Rayal-Park </td>
-<td><a href="https://korneliia08.github.io/Rayal-Park/">Link to page</a> == </td>
+<td><a href="https://korneliia08.github.io/Rayal-Park/">Link to page</a></td>
 <td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
 </tr>
 </table>
+
+
 
 
 
