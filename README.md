@@ -13,6 +13,13 @@
 ![test](https://img.shields.io/badge/node.js-06002e?logo=node.js)
 ![test](https://img.shields.io/badge/npm-06002e?logo=npm)
 ![test](https://img.shields.io/badge/figma-06002e?logo=figma)
+typeScript
+express
+docker
+sequelize
+sql
+mySQL
+
 
 
 
