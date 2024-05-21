@@ -1,6 +1,16 @@
 # Hi, I’m *Korneliia* 👋 
 🔭 I am currently working as a freelancer in web development and creating pet projects in my free time. My goal is to establish myself as a FrontEnd developer.
 
+# My Experience:
+I completed a professional course (8 months). During the course, I learned how to implement projects in a team.
+I have also been working as a freelancer for several months, specializing in creating various websites using React. My projects include both developing new websites from scratch and completing projects started by other developers. My responsibilities include:
+- Communicating with clients to understand their needs and project requirements;
+- Developing websites;
+- Collaborating with designers;
+- Delivering projects on time;
+- Documenting projects for future maintenance;
+- Working in a team on joint projects.
+
 # My skills:
 ![test](https://img.shields.io/badge/html5-06002e?logo=html5)
 ![test](https://img.shields.io/badge/css3-06002e?logo=css3)
