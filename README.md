@@ -1,5 +1,5 @@
 # Hi, I’m *Korneliia* 👋 
-🔭 I’m currently learning in CyberBionicSystematics
+🔭 I am currently working as a freelancer in web development and creating pet projects in my free time. My goal is to establish myself as a FrontEnd developer.
 
 # My skills:
 ![test](https://img.shields.io/badge/html5-06002e?logo=html5)
@@ -14,14 +14,8 @@
 ![test](https://img.shields.io/badge/npm-06002e?logo=npm)
 ![test](https://img.shields.io/badge/figma-06002e?logo=figma)
 typeScript
-express
-docker
-sequelize
 sql
 mySQL
-
-
-
 
 # My projects
 <table>
