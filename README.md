@@ -44,7 +44,7 @@ I have also been working as a freelancer for several months, specializing in cre
  <a href="https://www.costa-esperanza.com">Link to page -<br/costa-esperanza.com/</a>
 </td>
 <td>
-Private (work in progress)
+Private<br/> (work in progress)
 </td>
 </tr>
 <tr>
