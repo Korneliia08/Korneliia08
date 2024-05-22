@@ -51,10 +51,11 @@ Private (work in progress)
 <td>
   <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/cosyhome_cut.png" alt="drawing" width="200"/>
 </td>
-<td>  
+
 <td>
 cosyhome.fun<br/ Landing page
 </td>
+<td>
   
  <a href="https://cosyhome.fun/">Link to page -<br/>cosyhome.fun/</a>
 
