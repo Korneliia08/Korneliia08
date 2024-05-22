@@ -63,18 +63,11 @@ cosyhome.fun<br/ Landing page
      <td>
      Private
    </td>
-</tr>
-
-  
+</tr>  
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/foundation.png" alt="drawing" width="200"/> </td>
 <td>Благодійний фонд - могутність народу - <br/> Charitable foundation page</td>
 <td><a href="https://powepeople.com">Link to page -<br/> powepeople.com</a></td>
-<td>Private</td>
-</tr><tr>
-<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad2.png" alt="drawing" width="200"/> </td>
-<td> My bet - template 2</td>
-<td><a href="https://demo2.mojzaklad.pl">demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr>
 <tr>
@@ -85,6 +78,12 @@ cosyhome.fun<br/ Landing page
 <td>Trafico</td>
 <td><a href="https://korneliia08.github.io/trafico/">Link to page</a></td>
 <td><a href="https://github.com/Korneliia08/roomDesign">repository</a></td>
+</tr>
+<tr>
+<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
+<td> Weather-forecast </td>
+<td><a href="https://korneliia08.github.io/weather-forecast/">Link to page</a></td>
+<td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
 </tr>
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
