@@ -72,18 +72,13 @@ cosyhome.fun<br/ Landing page
 <td><a href="https://powepeople.com">Link to page -<br/> powepeople.com</a></td>
 <td>Private</td>
 </tr><tr>
-<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad1.png" alt="drawing" width="200"/></td>
-<td>My bet - template 1</td>
-<td><a href="https://demo1.mojzaklad.pl">demo1.mojzaklad.pl</a></td>
-<td>Private</td>
-</tr><tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/mojzaklad2.png" alt="drawing" width="200"/> </td>
 <td> My bet - template 2</td>
 <td><a href="https://demo2.mojzaklad.pl">demo1.mojzaklad.pl</a></td>
 <td>Private</td>
 </tr>
 <tr>
-<th colspan="4"> <h4>Own project</h4></th>
+<th colspan="4"> <h4>Pet-project</h4></th>
 </tr>
 <tr>
 <td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/Trafico.png" alt="drawing" width="200"/></td>
@@ -92,15 +87,15 @@ cosyhome.fun<br/ Landing page
 <td><a href="https://github.com/Korneliia08/roomDesign">repository</a></td>
 </tr>
 <tr>
-<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/LetBeFound.png" alt="drawing" width="200"/> </td>
-<td>LetBeFound </td>
-<td><a href="https://korneliia08.github.io/LetBeFound/">Link to page</a></td>
-<td><a href="https://github.com/Korneliia08/LetBeFound">repository</a></td>
-</tr>
-<tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
 <td> Rayal-Park </td>
 <td><a href="https://korneliia08.github.io/Rayal-Park/">Link to page</a></td>
+<td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
+</tr>
+<tr>
+<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
+<td> Room Design </td>
+<td><a href="https://korneliia08.github.io/roomDesign/">Link to page</a></td>
 <td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
 </tr>
 </table>
