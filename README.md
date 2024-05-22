@@ -35,7 +35,7 @@ I have also been working as a freelancer for several months, specializing in cre
 </tr>
 <tr>
 <td>
-  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/costa-esperanza.png" alt="drawing" width="200"/>
+  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/costa-esperanza_cut.png" alt="drawing" width="200"/>
 </td>
 <td>
   Costa esperanza
@@ -49,7 +49,7 @@ Private (work in progress)
 </tr>
 <tr>
 <td>
-  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/cosyhome.png" alt="drawing" width="200"/>
+  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/cosyhome_cut.png" alt="drawing" width="200"/>
 </td>
 <td>  
 <td>
