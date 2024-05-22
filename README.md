@@ -48,7 +48,7 @@ I have also been working as a freelancer for several months, specializing in cre
 <td>Private</td>
 </tr>  
 
-<!--
+
 <tr>
 <td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/costa-esperanza_cut.png" alt="drawing" width="200"/></td>
 <td>  Costa esperanza</td>
@@ -56,7 +56,6 @@ I have also been working as a freelancer for several months, specializing in cre
 <td>Private<br/> (work in progress)</td>
 </tr>
 
--->
 <tr>
 <th colspan="4"> <h4>Pet-project</h4></th>
 </tr>
