@@ -34,6 +34,38 @@ I have also been working as a freelancer for several months, specializing in cre
 <th colspan="4"> <h4>Commercial project</h4></th>
 </tr>
 <tr>
+<td>
+  zdjęcie
+</td>
+<td>
+  Costa esperanza
+</td>
+<td>
+ <a href="https://www.costa-esperanza.com">Link to page -<br/costa-esperanza.com/</a>
+</td>
+<td>
+Private (work in progress)
+</td>
+</tr>
+<tr>
+<td>
+zdjecoiie
+</td>
+<td>  
+<td>
+cosyhome.fun<br/ Landing page
+</td>
+  
+ <a href="https://cosyhome.fun/">Link to page -<br/>cosyhome.fun/</a>
+
+  </td>
+     <td>
+     Private
+   </td>
+</tr>
+
+  
+<tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/foundation.png" alt="drawing" width="200"/> </td>
 <td>Благодійний фонд - могутність народу - <br/> Charitable foundation page</td>
 <td><a href="https://powepeople.com">Link to page -<br/> powepeople.com</a></td>
