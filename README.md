@@ -33,70 +33,65 @@ I have also been working as a freelancer for several months, specializing in cre
 <tr>
 <th colspan="4"> <h4>Commercial project</h4></th>
 </tr>
-<tr>
-<td>
-  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/costa-esperanza_cut.png" alt="drawing" width="200"/>
-</td>
-<td>
-  Costa esperanza
-</td>
-<td>
- <a href="https://www.costa-esperanza.com">Link to page -<br/costa-esperanza.com/</a>
-</td>
-<td>
-Private<br/> (work in progress)
-</td>
-</tr>
-<tr>
-<td>
-  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/cosyhome_cut.png" alt="drawing" width="200"/>
-</td>
 
-<td>
-cosyhome.fun<br/ Landing page
-</td>
-<td>
-  
- <a href="https://cosyhome.fun/">Link to page -<br/>cosyhome.fun/</a>
-
-  </td>
-     <td>
-     Private
-   </td>
-</tr>  
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/foundation.png" alt="drawing" width="200"/> </td>
 <td>Благодійний фонд - могутність народу - <br/> Charitable foundation page</td>
 <td><a href="https://powepeople.com">Link to page -<br/> powepeople.com</a></td>
 <td>Private</td>
 </tr>
+
+<tr>
+<td>  <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/cosyhome_cut.png" alt="drawing" width="200"/></td>
+<td>cosyhome.fun<br/ Landing page</td>
+<td> <a href="https://cosyhome.fun/">Link to page -<br/>cosyhome.fun/</a>  </td>
+<td>Private</td>
+</tr>  
+
+<!--
+<tr>
+<td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/costa-esperanza_cut.png" alt="drawing" width="200"/></td>
+<td>  Costa esperanza</td>
+<td> <a href="https://www.costa-esperanza.com">Link to page -<br/costa-esperanza.com/</a></td>
+<td>Private<br/> (work in progress)</td>
+</tr>
+
+-->
 <tr>
 <th colspan="4"> <h4>Pet-project</h4></th>
 </tr>
+
 <tr>
-<td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/Trafico.png" alt="drawing" width="200"/></td>
-<td>Trafico</td>
-<td><a href="https://korneliia08.github.io/trafico/">Link to page</a></td>
-<td><a href="https://github.com/Korneliia08/roomDesign">repository</a></td>
-</tr>
-<tr>
-<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
+<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/weather.png" alt="drawing" width="200"/> </td>
 <td> Weather-forecast </td>
 <td><a href="https://korneliia08.github.io/weather-forecast/">Link to page</a></td>
-<td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
+<td><a href="https://github.com/Korneliia08/weather-forecast">repository</a></td>
 </tr>
+
 <tr>
 <td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
 <td> Rayal-Park </td>
 <td><a href="https://korneliia08.github.io/Rayal-Park/">Link to page</a></td>
 <td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
 </tr>
+
 <tr>
-<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/rayalpark.png" alt="drawing" width="200"/> </td>
+<td><img src="https://github.com/Korneliia08/Korneliia08/blob/assets/roomDesign.png" alt="drawing" width="200"/> </td>
 <td> Room Design </td>
 <td><a href="https://korneliia08.github.io/roomDesign/">Link to page</a></td>
-<td><a href="https://github.com/Korneliia08/Rayal-Park">repository</a></td>
+<td><a href="https://github.com/Korneliia08/roomDesign">repository</a></td>
 </tr>
+
+<tr>
+<td> <img src="https://github.com/Korneliia08/Korneliia08/blob/assets/Trafico.png" alt="drawing" width="200"/></td>
+<td>Trafico</td>
+<td><a href="https://korneliia08.github.io/trafico/">Link to page</a></td>
+<td><a href="https://github.com/Korneliia08/trafico">repository</a></td>
+</tr>
+
+
+
+
 </table>
 
 
