@@ -1,5 +1,5 @@
 # Hi, I’m *Korneliia* 👋 
-🔭 I am currently working as a freelancer in web development and creating pet projects in my free time. My goal is to establish myself as a FrontEnd developer.
+🔭 I build public-facing digital products and work on open-use solutions.
 
 # My Experience:
 I completed a professional course (8 months). During the course, I learned how to implement projects in a team.
